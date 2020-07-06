@@ -16,3 +16,5 @@ $RECYCLE.BIN/
 .DS_Store
 /Releases
 /BuildVersion.dat
+/assets/gregtech/textures/blocks/materialicons/oreSmall.pdn
+/assets/gregtech/textures/blocks/materialicons/ore.pdn
