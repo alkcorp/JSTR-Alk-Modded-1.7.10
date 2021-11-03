@@ -1,0 +1,57 @@
+{
+"entity.witch.ambient": {
+    "sounds": [
+      {
+        "name": "mob/witch/ambient5",
+        "pitch": 0.9
+      },
+      "mob/witch/ambient1",
+      "mob/witch/ambient2",
+      "mob/witch/ambient3",
+      "mob/witch/ambient4",
+      "mob/witch/ambient5"
+    ],
+    "subtitle": "subtitles.mob.witch.ambient"
+  },
+  "entity.witch.celebrate": {
+    "sounds": [
+      "mob/witch/celebrate",
+      "mob/witch/ambient1",
+      "mob/witch/ambient4"
+    ],
+    "subtitle": "subtitles.mob.witch.celebrate"
+  },
+  "entity.witch.death": {
+    "sounds": [
+      "mob/witch/death1",
+      "mob/witch/death2",
+      "mob/witch/death3"
+    ],
+    "subtitle": "subtitles.mob.witch.death"
+  },
+  "entity.witch.drink": {
+    "sounds": [
+      "mob/witch/drink1",
+      "mob/witch/drink2",
+      "mob/witch/drink3",
+      "mob/witch/drink4"
+    ],
+    "subtitle": "subtitles.mob.witch.drink"
+  },
+  "entity.witch.hurt": {
+    "sounds": [
+      "mob/witch/hurt1",
+      "mob/witch/hurt2",
+      "mob/witch/hurt3"
+    ],
+    "subtitle": "subtitles.mob.witch.hurt"
+  },
+  "entity.witch.throw": {
+    "sounds": [
+      "mob/witch/throw1",
+      "mob/witch/throw2",
+      "mob/witch/throw3"
+    ],
+    "subtitle": "subtitles.mob.witch.throw"
+  }
+}
